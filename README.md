@@ -1,6 +1,6 @@
 # JUnit 4
 JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
-This is a fork that is merely used for playing around with github related things. That's all.
+This is a fork that is merely used for playing around with github related things.
 
 For more information, please visit:
 * [Wiki](https://github.com/junit-team/junit/wiki)
