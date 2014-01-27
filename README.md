@@ -2,7 +2,7 @@
 JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
 This is a fork that is merely used for playing around with github related things.
 
-For more information, please visit (These are for the main JUnit project.  Use it, not this!!):
+For more information about JUnit, please visit (These are for the main JUnit project.  Use it, not this!!):
 * [Wiki](https://github.com/junit-team/junit/wiki)
 * [Download and Install guide](https://github.com/junit-team/junit/wiki/Download-and-Install)
 * [Getting Started](https://github.com/junit-team/junit/wiki/Getting-started)
