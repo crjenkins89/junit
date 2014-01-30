@@ -11,4 +11,3 @@ Visit the following links for more information on the JUnit project:
 * [Getting Started](https://github.com/junit-team/junit/wiki/Getting-started)
 
 *********************************************************************************************
-*********************************************************************************************
