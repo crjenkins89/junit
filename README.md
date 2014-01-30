@@ -8,3 +8,4 @@ Visit the following links for more information on the JUnit project:
 * [Download and Install guide](https://github.com/junit-team/junit/wiki/Download-and-Install)
 * [Getting Started](https://github.com/junit-team/junit/wiki/Getting-started)
 
+************************************************************************************************
